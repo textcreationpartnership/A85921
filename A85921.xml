@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first lecture touching navigation read publiquely at Sr. Balthazar Gerbiers accademy. Imprimatur, Hen: Scobell, Cleric: Parliamenti.</title>
+            <author>Gerbier, Balthazar, Sir, 1592?-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85921</idno>
+            <idno type="STC">Wing G560</idno>
+            <idno type="STC">Thomason E584_4</idno>
+            <idno type="STC">ESTC R206225</idno>
+            <idno type="EEBO-CITATION">99865399</idno>
+            <idno type="PROQUEST">99865399</idno>
+            <idno type="VID">165484</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165484)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 89:E584[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first lecture touching navigation read publiquely at Sr. Balthazar Gerbiers accademy. Imprimatur, Hen: Scobell, Cleric: Parliamenti.</title>
+                  <author>Gerbier, Balthazar, Sir, 1592?-1667.</author>
+               </titleStmt>
+               <extent>22 p., [1] leaf of plates : port.  </extent>
+               <publicationStmt>
+                  <publisher>for Robert Ibbitson dwelling in Smithfield neer Hosier Lane,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Navigation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165484:1" rendition="simple:additions"/>
+            <p>The FIRST LECTURE TOUCHING NAVIGATION Read Publiquely at S<hi rend="sup">r.</hi> Balthazar Gerbiers ACADEMY.</p>
+            <q>
+               <bibl>
+                  <hi>PSALM. 107. ver. 23.24.</hi>
+               </bibl>
+               <p>Qui deſcendunt Mare in Navibus facientes operationem in aquis multis, ipſi viderunt opera Domini &amp; mirabilia ejus in profundo.</p>
+            </q>
+            <floatingText type="license" xml:lang="lat">
+               <body>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>Hen: Scobell, Cleric: Parliamenti.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed at <hi>London</hi> for <hi>Robert Ibbitſon</hi> dwelling in Smithfield neer <hi>Hoſier Lane,</hi> 1649.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:165484:2"/>
+            <p>
+               <figure>
+                  <p>HEVREVX QVIEN DIEV SE CONFIE</p>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:165484:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:165484:3"/>
+            <pb facs="tcp:165484:3"/>
+            <head>To the Right Honorable Sir <hi>Henry Vane junior</hi> One of the Members of the moſt Honourable Aſ<g ref="char:EOLhyphen"/>ſembly of Parliament, Councell of STATE: <hi>And Treaſurer of the NAVY.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>S I</hi> have preſented both to the Right ho<g ref="char:EOLhyphen"/>nourable Speaker <hi>Lenthall,</hi> and to the Lord Preſident of the Councell of State, the printed Lectures which have been read <hi>gratis</hi> on <hi>Coſmography,</hi> in the Academy which I have endeavoured to Erect, for the glory of God, the honour of this Nation, the generall encouragement and <hi>improvement</hi> of all <hi>Lovers of Vertue.</hi> In the ſame way of humble reſpect and duty. I doe alſo
+<pb facs="tcp:165484:4"/>offer to your hands this Lecture touching <hi>Navigati<g ref="char:EOLhyphen"/>on;</hi> as moſt fit and pertinent, for that your hands and cares are fixt on this grand Veſſell <hi>England;</hi> as your right pious, religious minde, is on him whoſe won<g ref="char:EOLhyphen"/>ders you have moſt fully ſeen in the Deepe.</p>
+            <p>May thoſe great and Indefatigable Indevours be ſo proſperous and ſo bleſt by that great Pilot, Guider, and preſervator of all things, as that the Government wherein ſo many Legions are comprehended, may be ſo well guided (even in the greateſt ſtormes) from pe<g ref="char:EOLhyphen"/>riſhing, and live to praiſe his great and glorious Name, which will ever be the prayers of him that by all acceptable ſervices will indevour to approve himſelfe</p>
+            <closer>
+               <salute>Right Honourable,</salute> 
+               <signed>
+                  <hi>Your moſt humble and obedient Servant,</hi>Balthazar Gerbier.</signed>
+               <dateline>
+                  <hi>White Fryers,</hi> 
+                  <date>this <hi>28</hi> of Novemb. <hi>1649.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="lecture">
+            <pb n="5" facs="tcp:165484:4"/>
+            <head>THE <hi>FIRST LECT<g ref="char:V">Ʋ</g>RE</hi> TOUCHING NAVIGATION: <hi>Read Publiquely at</hi> Sir Balthazar Gerbiers Academy:</head>
+            <div type="introduction">
+               <head>The Introduction</head>
+               <p>
+                  <seg rend="decorInit">L</seg>Ike as the Deep doth at all times declare the marvellous wonders of that great Authour, Guider, and Preſerver of all things; ſo it muſt needs be a marvellous occupation; neither can it bee but moſt glorious to the minde of any creature, to exerciſe it ſelf on that ſubject whereon the Spirit of God was pleaſed to move, before all things were.</p>
+               <p>Certainly <hi>Navigation</hi> (whereof wee ſhall now treat) cannot but afford a glorious delight to the mindes of Lovers of Knowledge; as the Seas afford a world of Wealth unto thoſe that make <hi>Navigation</hi> their Profeſ<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>Is it not as rare as wonderfull, that with an Inſtrument ſo little as an <hi>Aſtralabo</hi> is, and that with a Sea compaſſe.</p>
+               <p>By the firſt you may meaſure the Circles of the Hea<g ref="char:EOLhyphen"/>vens, the height and diſtance of the Sunne, and Starres.</p>
+               <pb n="6" facs="tcp:165484:5"/>
+               <p> By the ſecond, (which hath neither mouth, tongue, legges, nor hands) man is directed, guided, and ſhewne where the Eaſt, Weſt, North, and South are (not only in the ſteddieſt caſe a veſſel can be, but when the moved waves toſſeth the ſame as it were towards the clouds, and thence lets it reele as into an Abyſſe) its no wonder then that <hi>Solomon</hi> the wiſeſt of all men ſaid, that the hardeſt thing to be found, was the way a Ship makes through the Seas. And is not the wonder ſo much the greater, that it findes its ſtreight courſe through that vaſt perpetuall moving, and removing body, ſo exactly, when the Firmament appeares as black as Inke, and all the lights of Heaven are covered with the darkneſſe of the night, (like as with an extinguiſher) as well as in the cleareſt day.</p>
+               <p>Is it not a wonder above all wonders, that after ſo ma<g ref="char:EOLhyphen"/>ny moneths Navigations, and that after ſuch varieties, changes of winds, intermixture of ſtormes, the violence of Tides, ſo conſtantly changeable, that a veſſel arrives to the mouth of an Harbour, as ſtreight as if it were a Ferry Boat drawn by a cord, faſtned from one ſhoare to the other.</p>
+               <p>With the royall Prophet <hi>David,</hi> let all men ſay; <hi>Qui deſcendunt mare in Navibus, facientes operationem in a<g ref="char:EOLhyphen"/>quis multis, ipſi viderunt opera Domini, &amp; mirabilia ejus in profundo dixit,</hi> &amp; <hi>ſtetit ſpiritus procella: Et exaltati ſunt flu<g ref="char:EOLhyphen"/>ctus ejus. Aſcendunt uſque ad Coelos,</hi> &amp; <hi>deſcendunt uſque ad abyſſos, anima eorum in malis tabeſcebat: Turbati ſunt,</hi> &amp; <hi>motiſunt ſicut ebrius,</hi> &amp; <hi>omnis ſapientia e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rum devorata eſt. Et clamaverunt ad Dominum eum tribularentur,</hi> &amp; <hi>de neceſ<g ref="char:EOLhyphen"/>ſitatibus eorum eduxit eos. Et ſtatuit procellam ejus in auram,</hi> &amp; <hi>ſiluerunt fluctus ejus,</hi> &amp; <hi>laetati ſunt quia ſiluerunt,</hi> &amp; <hi>de<g ref="char:EOLhyphen"/>duxit eos in portum volantatis eorum, confiteantur Domino
+<pb n="7" facs="tcp:165484:5"/>miſericordiae ejus,</hi> &amp; <hi>mirabilia ejus filiis hominam.</hi> That is They that goe downe to the Sea in ſhips, that doe buſi<g ref="char:EOLhyphen"/>neſſe in great waters, theſe ſee the workes of the Lord, and his wonders in the deep; for he commandeth, and raiſeth the ſtormy wind, which lifteth up the waves thereof; they mount up to the Heaven, they goe down againe to the depths, their ſoule is melted becauſe of trouble, they reele to and fro, and ſtagger like a drunken man, and are at their wits end; then they cry unto the Lord in their diſtreſſes. He maketh the ſtorme a calme, ſo that the waves thereof are ſtill; then are they glad becauſe they be quiet, ſo he bringeth them unto their deſired haven: O that men would praiſe the Lord for his goodneſſe, and for his wonderfull workes to the children of men, <hi>Pſal.</hi> 107.</p>
+               <p>Let us then ſo profit by this preſent meditation, wherein we ſhall finde the great benefit of the Art of Navigation, in that it doth not only ſerve for the tranſ<g ref="char:EOLhyphen"/>portation both of men and goods, from the remoteſt parts of the world, and towards the which God was not pleaſed to preſcribe any high wayes, for Carts, nor For<g ref="char:EOLhyphen"/>ces; but to make men acquainted with all ſuch parts, in which God doth manifeſt the varieties of his power, and of his bottomles treaſures; even ſo doth he likewiſe with Nations, in ſome of which his divine fatherly mercy is glorified, and his Juſtice made more apparent, rendring man alſo more capable to participate of thoſe innume<g ref="char:EOLhyphen"/>rous riches; by all what the Indian precious ſhoares are garniſhed with, by all the golden bowels of the earth, where Nature by the Sun-beams is made capable of ſuch productions, by what the Mother-wombe of pearls is poſſeſt with, by that wherewith <hi>Aarons</hi> breaſt was made ſo ſhining glorious; men load their Veſſels as freely
+<pb n="8" facs="tcp:165484:6"/>as Carts on other grounds, with the moſt ordinary fruits, and productions of the earth.</p>
+               <p>Navigation may therefore well be termed the moſt profitable of all Sciences, and Arts, for man-kinde; if he can make that uſe of it, as may juſtly draw bleſſings unto him; which is to be compaſt by doing that, ſo ear<g ref="char:EOLhyphen"/>neſtly wiſht for by the aforeſaid King <hi>David; O that men would praiſe the Lord for his goodneſſe, and for his wonderfull workes to the children of men.</hi>
+               </p>
+               <p>And by being as ready to labour in his cauſe (in which no Soule can ſuffer any ſhip-wrack) as to hazard Life, Ship, and Goods, for tranſitory things.</p>
+               <p>We ſhall begin with the Sea, and ſay firſt what it is, and why it is called Ocean.</p>
+               <p>The Sea is all the vaſt extent of water which environs the earth.</p>
+               <p>The waters were created by God, <hi>In principio creavit Deus coelum &amp; Terram, &amp; Spiritus Domini ferebatur ſuper aquas.</hi> In the beginning God created the Heavens and the Earth, and the Spirit of God moved upon the face of the waters. This is confirmed by the writs of <hi>Moſes,</hi> in his generation, or off-ſpring of this world.</p>
+               <p>The Water doth engender, and maintaine it ſelf in the Sea; the Rivers come from it, and return unto it.</p>
+               <p>The <hi>Aegyptians</hi> have ſuppoſed foure Elements, of each one whereof they made two; the one Male, and the other Female: they beleeve that the Aire which engen<g ref="char:EOLhyphen"/>ders the wind is the Male, and that which is loaden with clouds, and which doth not ſtirre, to be the Female; they call the Water male, and all other Waters female; they ſay that the fire (the flame whereof burnes) is male, and that which ſhineth (without doing harme) is the female. They doe beleeve that the hardeſt Earth,
+<pb n="9" facs="tcp:165484:6"/>as the Stones, and Rocks are males, and give the name of female to that which is manuable.</p>
+               <p>The Sea is called Ocean, by reaſon of its quick and continuall motion; for <hi>Oris</hi> in Greek, is to haſten, or elſe it's called, <hi>Ocean quaſi Cianeus,</hi> for it embraces the Rivers of the earth.</p>
+               <p>The Sea receives ſeverall names from the diverſity of places, by the which it paſſeth, as the Sea of <hi>China, India, Perſia,</hi> &amp;c.</p>
+               <p>The Sea properly hath no colour, for our ſight doth not remaine on the ſuperficies of the water, but deſcends lower, and at a great diſtance its colour is like that of Heaven, but being diſturbed by the Winds it is ſuſcep<g ref="char:EOLhyphen"/>tible, of divers colours.</p>
+               <p>It's to be noted, that the Sea riſeth, increaſing ſeven dayes, which is called quick water, and ſeven other dayes it retires decreaſing, which is called dead water. <hi>Ariſtotle</hi> treats of the cauſes of the increaſing and decrea<g ref="char:EOLhyphen"/>ſing in the ſecond of the Meteors; as alſo <hi>Hippocrates</hi> in the Booke of the Aire, and Waters; where he ſayes, that there is a proper cauſe of Aſtrologie, <hi>viz.</hi> by the na<g ref="char:EOLhyphen"/>turall vertue which the Moone hath on the Waters; therefore we ſee all that's in the Sea increaſeth, and de<g ref="char:EOLhyphen"/>creaſeth, as the Moone doth; for as the Moone happens to riſe on the Horizon, and that ſhe toucheth the Sea with her beames, ſo doth ſhe raiſe a ſurging on the Sea, which cauſeth its increaſe, and decreaſe; the which ſhall be more largely diſcus'd in its proper time, and place.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:165484:7"/>
+               <head>How the Sea belongs to the Perfection of the world, that it would have periſhed without the ſame, and how the waters are ingendered by the Sea.</head>
+               <p>THe World could not have been perfect without the Sea, for that if there were no beginning of waters, there would bee no ſimple water; and if there were no ſimple water, there would be no mixt water; and ſo there could not be any thing of that which is ingendered by water. And if there were no water found, nothing conſiſting of a body could bee continued, or congluti<g ref="char:EOLhyphen"/>nated.</p>
+               <p>If there were no beginning of Waters, generation would be deſtroyed, and conſequently all the World. Neither without the beginning of Waters could all the aſſemblings of contraries be performed; though they are poſſible.</p>
+               <p>Thus nature would be deficient in thoſe things which are unavoidably neceſſary, and conducing to the ſame. And its property, and vertue failing, the waters would be hindered in their action, by which it would happen (there being no beginning of waters) that the workman<g ref="char:EOLhyphen"/>ſhip of nature would periſh, and conſequently the whole World.</p>
+               <p>
+                  <hi>Ariſtotle</hi> (in the ſecond of the <hi>Meteors</hi>) ſayes, that the <hi>Waters of the Seas ingender in the North:</hi> He would ſay, that the greateſt part of the waters of the Sea are ingendred in the North. As <hi>Albert</hi> the great declares (in the ſe<g ref="char:EOLhyphen"/>cond of the <hi>Meteors</hi> the ſixth Chapter, where he ſayes) that the Sea runs from the North to the South, and the cauſe is, that the Sea is higher in the North, then to<g ref="char:EOLhyphen"/>wards the South; and the reaſon why it is higher, is, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="11" facs="tcp:165484:7"/>that the cold of the North ingenders more water than the Sea can contain in the ſpace, diſtance, and height, of its coaſt there. The water which is in the South is conſumed and diminiſhed by the heat of the Sun, there<g ref="char:EOLhyphen"/>fore one part of the South water, drives the other back towards the lowermoſt ſide, yet nevertheleſſe either mo<g ref="char:EOLhyphen"/>veth accidentally from the place of their generation, be<g ref="char:EOLhyphen"/>cauſe that which is moiſt runs to be retained in the dry part.</p>
+               <p>The reaſon why the water conſumes it ſelfe ſo much in the South, is, becauſe the Sunne turnes alwayes in his excentrique circle: and that its center is not the ſame with that of the Earth, ſo that if the Diameter, of the cir<g ref="char:EOLhyphen"/>cle of the ſun were paſſed between two Diameters, its cen<g ref="char:EOLhyphen"/>ter and that of the Earth, the greateſt part of the Diameter would be at one ſide, and the leſſer at the other, in con<g ref="char:EOLhyphen"/>ſideration of the Center of the Earth.</p>
+               <p>And thus it is Geometrically demonſtrated, that the greateſt length of the Diameter is neare the twen<g ref="char:EOLhyphen"/>tieth degree of <hi>Gemini,</hi> and that the leaſt length of it is at the twentieth degree of <hi>Sagitarius,</hi> its oppoſite ſigne. It appeares then, that the Sunne approaches nearer unto the Earth in the Southerne parts then in the Northerne; and thus by its approaching the South, heats it ſo violent<g ref="char:EOLhyphen"/>ly, that it conſumes the water, and ſcorches the Earth, which it doth not at the North.</p>
+            </div>
+            <div type="part">
+               <head>Wherefore the Water of the Sea is briniſh and ſalt, and that ſuch Water is beſt for Navigation.</head>
+               <p>THe matter which cauſes the Sea to be briniſh, and ſalt, is, becauſe that there are two ſorts of vapours in the Sea, <hi>viz.</hi> Hot, and Moiſt; and Hot, and Dry: The
+<pb n="12" facs="tcp:165484:8"/>one whereof evaporates it ſelfe from the ſuperficies of the Sea, and the other raiſeth it ſelfe from its bottome, by force of the Sunne, and Stars, which are the effici<g ref="char:EOLhyphen"/>ent cauſes of its vapours, and becauſe that the vapour of the water is very ſubtle, between theſe two, therefore it elevates it ſelf in the Aire, and is conſumed by the Sun, and there remaineth nothing elſe but the exhalations of the Earth, the which are diſſipated, extended, and mingled among the water, as appeares by the exam<g ref="char:EOLhyphen"/>ple of thoſe who eate, for the digeſted meat, ſpreads and divides it ſelfe through the members, and all the groſſe and undigeſted ſubſtance remains: In the like manner alſo, the vapour of the Earth, having extended it ſelfe, re<g ref="char:EOLhyphen"/>maines mixt with the ſubſtance of the Sea water, and the coldneſſe of the Water drives in ſo coldly, as it con<g ref="char:EOLhyphen"/>ſumes it ſelfe by its owne coldneſſe, becauſe of its min<g ref="char:EOLhyphen"/>gling by Antyperiſtaſis, which is to ſay, that two contra<g ref="char:EOLhyphen"/>ry things joyned together, become ſtronger then before, for the heat of the exhalation (which iſſues from the bot<g ref="char:EOLhyphen"/>tom of the Sea) fortifies it ſelf by the vertue of the Sun, with its contrary, to wit, the coldneſſe, and thus the Heat happens to overcome, which is the neceſſary opera<g ref="char:EOLhyphen"/>tion towards the begetting of the ſaltiſh water.</p>
+               <p>It is alſo more convenient for Navigation, that the water be ſaltiſh then freſh, for the ſaltiſh water is heavi<g ref="char:EOLhyphen"/>er then the freſh: That it is ſo, is proved by many expe<g ref="char:EOLhyphen"/>riences, as for example, this one: Take Freſh water, and mingle it with a good quantity of ſalt, ſo that the Salt may melt, and be diſſolved into water, then take a Freſh eg, and put it on the mixt water, the thicknes of the water (which proceeds from the mixture of the Salt) wil bearup the egg by its thicknes, &amp; wil cauſe it to ſwim over it, the which in freſh water would deſcend to the bottom.
+<pb n="13" facs="tcp:165484:8"/>By this ſame experience it may likewiſe be demonſtrated that a veſſel will ſinck ſooner in Freſh water then in Salt water, for the freſh water divides it ſelfe both ſooner, and cloſes with greater eaſe then the ſalt water doth. So as by the driving of the egg on the ſalt water, the ar<g ref="char:EOLhyphen"/>gument may be likewiſe ſtrengthened: That the ſaltiſh<g ref="char:EOLhyphen"/>neſſe in the Sea water is not divided, but that the whole Sea throughout, its water is as well ſalt at the bottome, and in the middeſt, as on the ſuperficies; And there<g ref="char:EOLhyphen"/>fore the opinion of ſome Philoſophers, that the ſea wa<g ref="char:EOLhyphen"/>ter ſhould be freſh at the bottome, is frivolous, being that the Sea-Fiſh is no more ſalt then thoſe of freſh water Rivers: And that the reaſon thereof ſhould be, that the fiſh make their litter and feed in the bottome, which being but a ſlight argument, it will be neceſſary to ſay only this thereon.</p>
+               <p>That though the body of the Sea moves in an entire maſſe, by its ebbing and flowing, yet ſince its a liquid body, it cannot chuſe (being ſo much agitated by the winds) but be generally ſalt: And the which cannot be contradicted by ſo weak a conceit as that the ſea-fiſh are not ſalt, becauſe they feed at the bottome of it. God hath given unto the Elements their due propriety, as wel as unto all the creatures, and likewiſe to all the produ<g ref="char:EOLhyphen"/>ctions, both of the earth and ſea: And there is no more contradiction of a poſſibility in Fiſh that live in ſalt wa<g ref="char:EOLhyphen"/>ter to have a freſh taſte, then that the moyſture which proceeds from the <hi>Muſcadine Spaniſh</hi> grape, ſhould be drawne from the ſame ſoyl, whereon the bitter Almond, Olive, and the balmiſh Nuts oyle doth grow, whoſe ſeverall productions are according to that property which God hath been pleaſed to beſtow on them.</p>
+               <p>The Earth it ſelfe is ſalt, which the Scripture notes,
+<pb n="14" facs="tcp:165484:9"/>for if the earth loſeth its Salt, wherewith ſhall it be ſea<g ref="char:EOLhyphen"/>ſoned; and yet the ſame earth produceth Sugar, though a Salt to preſerve Fruits; and contrary to the Salt of the Sea, &amp;c. And likewiſe ſeverall other things, out of which though Salt might be drawn, yet they have not the faltiſh taſte, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Of the different Motions which are in the Ocean.</head>
+               <p>GReat part of the Waters are ingendered in the North, and runs from the North towards the South as aforeſaid, (which is one of the Seas motions) When the Tide increaſeth, we ſee the ſea mounts at one ſide, and when it decreaſeth, its motion is quite contrary, and it begins firſt to decreaſe where it had the firſt increaſe; and thus it appears that the ſea hath contrary motions, and different the one from the other,</p>
+               <p>
+                  <hi>Seneca</hi> ſayes, that there is no other cauſe of the cur<g ref="char:EOLhyphen"/>rent of Waters from one place to another, then the height and lowneſſe of places; that only motion excep<g ref="char:EOLhyphen"/>ted by the which the Sea increaſeth, and decreaſeth; for (as aforeſaid) it followes the courſe of the Moone, for the waters of the Sea increaſe, and decreaſe in all the parts of the World, that is to ſay, in the Eaſt, Weſt, North, and South; therefore the Sea hath no proper place from whence it begins its increaſing, or decreaſing, but moveth accidentally from one part to the other, unleſſe it be downwards towards the bottome; for that ſuch a motion doth not happen accidentally, but by the proper eſſence agreeing to its forme.</p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:165484:9"/>
+               <head>How it chanceth that the Sea doth neither over-flow, augment, nor inlarge it ſelfe.</head>
+               <p>THe cauſe why the Sea doth not over-flow, augment, nor inlarge it ſelfe, though ſo much water is engen<g ref="char:EOLhyphen"/>dered in it, and that it doth continually receive ſo many Rivers and Fountaines into it; is, that the Sea is the natu<g ref="char:EOLhyphen"/>rall receptacle of all the Waters, and their proper reti<g ref="char:EOLhyphen"/>ring and reſting place, and therefore it doth not over<g ref="char:EOLhyphen"/>flow, nor inlarge it ſelfe; for that no place can drive back, nor hinder the entrance of that thing which by nature ought to be in her, ſince naturally the place ought to conforme it ſelfe unto that which it incloſeth; like as the Sea, which being capable to receive into her all the Rivers, and nevertheleſſe for their entrance doth not over-flow, nor augment. Alſo the Sea doth not o<g ref="char:EOLhyphen"/>verflow, becauſe it is of ſuch a vaſt extent, that the Rivers are as nothing in conſideration to it. The third reaſon is, becauſe that the heat of the Sun, and the breath of the Wind, conſumes ſuch a quantity of Water, that though the Sea continually engenders, and that the Rivers in<g ref="char:EOLhyphen"/>ceſſantly run into it; yea God hath ordained, that it ſhould not leſſen, nor augment, as it is written in <hi>Job, Lord, thou haſt ſet a limit, the which it ſhall not paſſe.</hi> The holy Writ ſayes in <hi>Geneſis,</hi> that the water of the Deluge, did riſe fifteene Cubits over the higheſt Hils under the Heavens, inſomuch that all the Earth was covered with water. But though this increaſing of water was ſo great, yet nevertheleſſe the Sea did not over-flow the Earth, by tranſgreſſing its limits or bounds.</p>
+               <p>The increaſing of thoſe Waters proceeded from two cauſes; the one was, that <hi>the windowes of Heaven were
+<pb n="16" facs="tcp:165484:10"/>opened,</hi> as the Text ſayes, <hi>and it rained on the earth forty dayes, and forty nights exceedingly;</hi> the other was, that the Fountaines, Rivers, and Currents did over-flow, in<g ref="char:EOLhyphen"/>ſomuch that the earth was by them covered, as aforeſaid, <hi>and every living ſubſtance was deſtroyed which was upon the face of the ground,</hi> except <hi>Noah,</hi> who only remained alive, and they that were with him in the Arke; and after<g ref="char:EOLhyphen"/>wards the ſame Text ſayes, <hi>that God cauſed a wind to paſſe over the earth, which abated the waters; the raine from Hea<g ref="char:EOLhyphen"/>ven was alſo reſtrained, and the earth returned to its firſt being.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Of the antiquity of Navigation.</head>
+               <p>GOd the Creator of the univerſall World, did ordaine the making of the firſt Veſſel, as it is written in the ſixth Chapter of <hi>Geneſis,</hi> that God commanded <hi>Noah</hi> to make an Arke of Gopher wood, and to pitch it within, and without with pitch; the length of the Arke was of three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.</p>
+               <p>The <hi>Lydians</hi> were the firſt inventers of Ships, but their skill only extended it ſelfe to joyne one beame to ano<g ref="char:EOLhyphen"/>ther well nailed, and well caulked, with which they ven<g ref="char:EOLhyphen"/>tured to Sea; afterwards <hi>Epaminondas</hi> did ſet forth Veſ<g ref="char:EOLhyphen"/>ſels in a greater perfection to ſaile withall, ſo that the famous Captaine <hi>Bias</hi> was ſeene in the Peloponenſian War, both with Ships, Charricks, and Gallies.</p>
+               <p>
+                  <hi>Solomon</hi> King of <hi>Jeruſalem,</hi> ſent two Ships into <hi>Tharſis,</hi> which both went and returned each third yeare, and brought Gold, Silver, Ivory, and divers other things.</p>
+               <p>
+                  <hi>Julius Solinus</hi> ſayes, that all the Meridian Sea which embraces <hi>Africa,</hi> was ſayled about from the <hi>Indies</hi> to <hi>Spaine.</hi>
+               </p>
+               <pb n="17" facs="tcp:165484:10"/>
+               <p> 
+                  <hi>Pliny</hi> writes in his ſecond Booke, the threeſcore and ſeventh Chapter, that in his time all the circuit of <hi>Spaine</hi> and <hi>France</hi> was ſayled about, and likewiſe all the Weſt.</p>
+               <p>Before <hi>Plato's</hi> time, there were Veſſels that ſayled from the Iſle of <hi>Cadiz,</hi> which is at the entry of the Straits of <hi>Gibraltar,</hi> to the <hi>Eaſt Indies.</hi>
+               </p>
+               <p>When <hi>Tiberius Caeſar</hi> did governe the Empire, there were ſeene in the Arabian Sea, enſignes of Veſſels floa<g ref="char:EOLhyphen"/>ting, which the <hi>Spaniards</hi> had loſt.</p>
+               <p>In the time of <hi>Auguſtus Caeſar,</hi> the greateſt part of the Ocean Sea was ſayled through.</p>
+               <p>When <hi>Seleucus</hi> and <hi>Antiochus</hi> did reigne, all the coaſt of the Caſpian Sea was ſayled through, and knowne by the Macedonian Armies.</p>
+               <p>The King of <hi>Switzerland</hi> gave to <hi>Metellus</hi> ſome <hi>Indians,</hi> which ſayling with Merchandiſes, were driven by a Tempeſt from their Country to <hi>Germany.</hi>
+               </p>
+               <p>In the time of the Teutonicall Emperours, there were <hi>Eaſt Indian</hi> Embaſſadours found on the <hi>Germaine</hi> coaſt, which were driven thither by the violence of the wind.</p>
+               <p>Some Authors write of great numbers and multitude of Ships which were in ancient times, as thoſe of the <hi>Aſſyrians, Perſians, Grecians,</hi> &amp;c.</p>
+               <p>
+                  <hi>Homer</hi> writes, that the <hi>Grecian</hi> Navie which came to <hi>Troy,</hi> conſiſted of one thouſand, one hundred, and foure<g ref="char:EOLhyphen"/>ſcore Ships.</p>
+               <p>
+                  <hi>Xerxes</hi> King of <hi>Perſia,</hi> came with five thouſand, five hundred Ships, ſeven hundred thouſand men, and three hundred thouſand of his friends and allies, to the deſtru<g ref="char:EOLhyphen"/>ction of <hi>Greece,</hi> and being come to the Pontick Sea, he made a Bridge of Ships over it, on the which he paſſed with his Army.</p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:165484:11"/>
+               <head>The uſe of Navigation</head>
+               <p>IS cheifly to deſcry the dangers which are by the way, as Rocks, Sands, and ſuch other like impediments, and to know how to avoid them: How far the places are di<g ref="char:EOLhyphen"/>ſtant, what wind or point of the Compaſſe ſerves to fail unto them; and alſo when the windes fall out croſſe by the way, to conſider how to direct the Veſſell, and to take the moſt advantagious courſe to attaine unto the in<g ref="char:EOLhyphen"/>tended Port in a convenient time. And if any ſtormes happen by the way, to indeavour the preſervation of both Ship and goods, and to bring her ſafe unto the Port aſſigned.</p>
+            </div>
+            <div type="part">
+               <head>How to fore-ſee Stormes by the Signes of the Sunne and Moone.</head>
+               <p>SEverall ſtormes, both at high winds, and troubled raging Seas, often fall out, whereby both the loſſe of ſhips, and perill of the Sea mens lives are threatned, and other eminent dangers: We will declare by what ſignes they may bee foreſeen; and firſt by obſervations on the Sunne.</p>
+               <p>At the ſunne riſing, if you perceive before it reddiſh Clouds, and that they drive, ſome towards the North, and ſome towards the South, ſignifies winds and great Raines.</p>
+               <p>If before the ſunne riſing, you ſee ſome round clouds hover about it, withdrawing towards the South after that the Sunne is riſen, it ſignifies great cold, but if they doe withdraw towards the Sunne ſetting, they ſignifie faire weather.</p>
+               <pb n="19" facs="tcp:165484:11"/>
+               <p> When the Sun ſpreads its beams far through the Aire, and that there ſeems to be ſome hollowneſſe in it, near the middle of the Sunne, that ſignifies Raine.</p>
+               <p>When ere the Sunne riſes, its beames are perceived, that ſignifies Raines, and Winds.</p>
+               <p>When the Sun ſets having its circle white, that ſignifies ſtormes for the night inſuing.</p>
+               <p>When the Sun is faire and cleare, without caſting any extraordinary heates at its riſing, that ſignifies a faire and cleare day, If it ſeemes to be yellow, it then ſignifies rain and Haile.</p>
+            </div>
+            <div type="part">
+               <head>Severall ſignes by the Moone.</head>
+               <p>THe <hi>Egyptians</hi> obſerve the fourth day of the Moone, and if then ſhe is reſplendent with a clear light, they infer then, that it ſignifies faire weather.</p>
+               <p>That when the Moon is red, it then ſignifies winds.</p>
+               <p>That when ſhe is browne, and darkned; it then ſigni<g ref="char:EOLhyphen"/>fies raine.</p>
+               <p>When at the Full Moone it is cleare and bright in the middle; they ſay then that it ſignifies Faire weather.</p>
+               <p>When at the Full Moone it hath a Circle about it, Its then a ſigne, that the wind will proceed from that part where ſhe is moſt reſplendent.</p>
+               <p>At the New Moone, and that her Hornes are thicke and dusky, that ſignifies a ſtorme.</p>
+               <p>If at the eleventh day of the Moones age, ſhe appears with a flamy colour, it then ſignifies ſtormes.</p>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:165484:12"/>
+               <head>Certiane other ſignes by which ſtormes at Sea are uſually forefeene.</head>
+               <p>WHen from the top of woods or forreſts, a noiſe of wind is heard, and that thoſe who are out of the wood feele no wind, it ſignifies infallibly, a great enſuing ſtorme.</p>
+               <p>When the ſea being calme, is heard to murmure with<g ref="char:EOLhyphen"/>in it ſelfe, it ſignifies that great winds are towards.</p>
+               <p>When the Dolphins ſhew themſelves, and play above the waves, it is the ſign of an enſuing ſtorm, which you muſt expect from that part whence the Dolphin firſt appeared.</p>
+               <p>When the Sea Meews flye landward, and abandon the Sea, it is the ſigne of a ſtorme.</p>
+               <p>When the Rain-Bow appeares in the South, it ſignifies great ſhowers: Appearing towards the Weſt, its only a ſigne of Dew or Miſts.</p>
+               <p>But being ſeen in the Eaſt, it is a ſigne of fair and cleare weather.</p>
+            </div>
+            <div type="part">
+               <head>What the wind is, its qualities, and how its ingendred.</head>
+               <p>THe wind is an evaporation of the Earth, which aſ<g ref="char:EOLhyphen"/>ſcends above the Aire, whoſe vapour is hot and dry, and the which pierces the Aire by its ſubtilty, for as the wind in its ſpecies is of a ſubtle vapour, and that the Na<g ref="char:EOLhyphen"/>ture of ſubtle things is to aſcend, therefore its aſcents are made by the ſubtle vapours of the Earth, from whence it is driven back again about the Earth, by the coldneſſe of the middlemoſt Regions ayre.</p>
+               <p>So that the off-Spring and motion of the wind, pro<g ref="char:EOLhyphen"/>ceeds from above, and its matter from beneath.</p>
+               <pb n="21" facs="tcp:165484:12"/>
+               <p> At the beginning the winds have no great force, but the farther they blow, the more they increaſe in ſtrength, becauſe of the new exhalations which are mingled with them: As it happens in Floods, which though but little in their births, yet do augment and continually increaſe by the reception of new additionall waters.</p>
+               <p>When two contrary winds meet, the weakeſt always yeelds unto the ſtrongeſt, and this makes a whirle-wind, which cauſes the loſſe of Ships, when they chance to be under the power of ſuch a Whirle-wind.</p>
+               <p>The exhalations of which the winds are made, do not on the ſuddaine yeeld to the Clouds which they meete with in the Aire; but ſtrive to overcome them, and ſo to force their paſſage for their aſcent: and ſo it happens that ere they blow here beneath; we ſee the Clouds above move, by the agitation of the winds.</p>
+               <p>And becauſe the winds are compoſed of different mat<g ref="char:EOLhyphen"/>ters, and qualities, to thoſe which forme the Raine, they cannot laſt long together, but alwayes ſtruggle and ſtrive untill they have overcome each other. And Raine moſt commonly gets the better, unleſſe the wind be provided with a great quantity of matter and ſubſtance.</p>
+               <p>Nor can the winds maintaine it ſelfe againſt the vehe<g ref="char:EOLhyphen"/>mency of extreame heats, nor againſt the rigour of ex<g ref="char:EOLhyphen"/>treame cold: becauſe the vehemency of heat diſperſes, and diſſipates it, and the rigour of the cold congeales and cloſes it up with the Clouds, and afterwards reduceth it into Raine.</p>
+               <p>The Divine providence of God, in the creation and diſpoſition of the winds, is worthy to be admired; not becauſe the ambition of men have made thereof an In<g ref="char:EOLhyphen"/>ſtrument, and ſcourge to ruine themſelves, by abuſing thereof, as moſt men do, moſt imprudently, and vain<g ref="char:EOLhyphen"/>ly:
+<pb n="22" facs="tcp:165484:13"/>As <hi>Xerxes</hi> King of <hi>Perſia</hi> did; who though he paſſed the Seas to go to <hi>Greece;</hi> yet could he not vanquiſh it, though he had in a manner covered it with Souldiers.</p>
+               <p>So <hi>Alexander:</hi> who having paſſed the <hi>Indies,</hi> yet would have ſearcht for ſomething more, even beyond the great Sea, and it greived him to heare that hee was at the worlds ends</p>
+               <p>But as for the incomprehenſible bounty of God, who hath diſpoſed of the windes into ſo many parts, for the preſervation of the Earth, and Aire in a ſweet tempe<g ref="char:EOLhyphen"/>rance, for the bringing in of Raines, and afterwards the driving of them back, both for the nouriſhing of Fruits, Seeds, and all fruit Trees, which by the agitation of the winds, and other cauſes, are ripened, giving likewiſe nou<g ref="char:EOLhyphen"/>riſhment to the Corne, which it ripens, and preſerves from drying and withering. Uſefull likewiſe to Man, towards the diſcovery of Forraigne parts, and remote Countryes, unto which unleſſe a man ſhould travell, he ſhould be farre more ignorant then many bruite beaſts, wanting the experience of divers things, which conduce towards the bettering of his underſtanding, &amp;c.</p>
+               <trailer>The End of the first Lecture, concerning NAVIGATION.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
